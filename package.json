@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/srivalli-manoj.lwc-l2ep42n8",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve UXXdCbFe3xA5UZTyVbvT --open"
+  }
+}
